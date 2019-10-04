@@ -27,4 +27,6 @@ end
 
 end
 
-full_pyramids
+def perform
+    full_pyramids
+end
