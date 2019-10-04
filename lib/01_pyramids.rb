@@ -30,3 +30,5 @@ end
 def perform
     full_pyramids
 end
+
+perform
